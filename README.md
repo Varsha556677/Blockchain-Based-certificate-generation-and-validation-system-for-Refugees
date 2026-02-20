@@ -1,0 +1,2 @@
+# Blockchain-Based-certificate-generation-and-validation-system-for-Refugees
+A Blockchain-Based Certificate Generation and Validation System for Refugees securely issues, stores, and verifies digital certificates using blockchain technology. It ensures tamper-proof, transparent, and decentralized record management, enabling refugees to access education, jobs, and services without loss or forgery of documents.
